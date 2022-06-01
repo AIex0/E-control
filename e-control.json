@@ -1,0 +1,488 @@
+[
+    {
+        "id": 6060,
+        "name": "GENOL",
+        "location": {
+            "address": "Wienerstraße 2",
+            "postalCode": "2115",
+            "city": "Ernstbrunn",
+            "latitude": 48.5258763,
+            "longitude": 16.3769644
+        },
+        "contact": {
+            "telephone": "432576242024",
+            "mail": "stefan.tillmann@korneuburg.rlh.at"
+        },
+        "openingHours": [
+            {
+                "day": "MO",
+                "label": "Montag",
+                "order": 1,
+                "from": "00: 00",
+                "to": "24: 00"
+            },
+            {
+                "day": "DI",
+                "label": "Dienstag",
+                "order": 2,
+                "from": "00: 00",
+                "to": "24: 00"
+            },
+            {
+                "day": "MI",
+                "label": "Mittwoch",
+                "order": 3,
+                "from": "00: 00",
+                "to": "24: 00"
+            },
+            {
+                "day": "DO",
+                "label": "Donnerstag",
+                "order": 4,
+                "from": "00: 00",
+                "to": "24: 00"
+            },
+            {
+                "day": "FR",
+                "label": "Freitag",
+                "order": 5,
+                "from": "00: 00",
+                "to": "24: 00"
+            },
+            {
+                "day": "SA",
+                "label": "Samstag",
+                "order": 6,
+                "from": "00: 00",
+                "to": "24: 00"
+            },
+            {
+                "day": "SO",
+                "label": "Sonntag",
+                "order": 7,
+                "from": "00: 00",
+                "to": "24: 00"
+            },
+            {
+                "day": "FE",
+                "label": "Feiertag",
+                "order": 8,
+                "from": "00: 00",
+                "to": "24: 00"
+            }
+        ],
+        "offerInformation": {
+            "service": "False",
+            "selfService": "True",
+            "unattended": "True"
+        },
+        "paymentMethods": {
+            "cash": "True",
+            "debitCard": "True",
+            "creditCard": "True",
+            "others": "Tank-Chip"
+        },
+        "paymentArrangements": {
+            "cooperative": "False",
+            "clubCard": "True",
+            "clubCardText": "Tank-Chip"
+        },
+        "otherServiceOffers": "Autowäsche\r\nTankstelle mit Diesel, Eurosuper, Superethanol",
+        "position": 1,
+        "open": "True",
+        "prices": [
+            {
+                "fuelType": "SUP",
+                "amount": 1.788,
+                "label": "Super 95"
+            }
+        ]
+    },
+    {
+        "id": 33291,
+        "name": "Diesel-Benzin-Diskont Groiss ",
+        "location": {
+            "address": "Josef-Jessernigg-Straße 3",
+            "postalCode": "2000",
+            "city": "Stockerau",
+            "latitude": 48.387907,
+            "longitude": 16.232125
+        },
+        "contact": {
+            "telephone": "4322666344325",
+            "fax": "43226665423",
+            "mail": "reinigung@groiss-trans.at",
+            "website": "http: //www.diesel-benzin-diskont.at"
+        },
+        "openingHours": [
+            {
+                "day": "MO",
+                "label": "Montag",
+                "order": 1,
+                "from": "00:00",
+                "to": "24:00"
+            },
+            {
+                "day": "DI",
+                "label": "Dienstag",
+                "order": 2,
+                "from": "00: 00",
+                "to": "24: 00"
+            },
+            {
+                "day": "MI",
+                "label": "Mittwoch",
+                "order": 3,
+                "from": "00: 00",
+                "to": "24: 00"
+            },
+            {
+                "day": "DO",
+                "label": "Donnerstag",
+                "order": 4,
+                "from": "00: 00",
+                "to": "24: 00"
+            },
+            {
+                "day": "FR",
+                "label": "Freitag",
+                "order": 5,
+                "from": "00: 00",
+                "to": "24: 00"
+            },
+            {
+                "day": "SA",
+                "label": "Samstag",
+                "order": 6,
+                "from": "00: 00",
+                "to": "24: 00"
+            },
+            {
+                "day": "SO",
+                "label": "Sonntag",
+                "order": 7,
+                "from": "00: 00",
+                "to": "24: 00"
+            },
+            {
+                "day": "FE",
+                "label": "Feiertag",
+                "order": 8,
+                "from": "00: 00",
+                "to": "24: 00"
+            }
+        ],
+        "offerInformation": {
+            "service": "False",
+            "selfService": "True",
+            "unattended": "True"
+        },
+        "paymentMethods": {
+            "cash": "True",
+            "debitCard": "True",
+            "creditCard": "False"
+        },
+        "paymentArrangements": {
+            "cooperative": "False",
+            "clubCard": "True"
+        },
+        "otherServiceOffers": "Shop, Bistro, SB-Wasch- & Saugplätze, Nutzfahrzeug-Aussenwäschen, Kfz-Mietwerkstatt für Bastler, Duschraum für Lkw-Fahrer",
+        "position": 2,
+        "open": "True",
+        "prices": [
+            {
+                "fuelType": "SUP",
+                "amount": 1.788,
+                "label": "Super 95"
+            }
+        ]
+    },
+    {
+        "id": 1474409,
+        "name": "Diskont Tankstelle",
+        "location": {
+            "address": "Wienerstraße 1 ('Hofer Parkplatz')",
+            "postalCode": "2115",
+            "city": "Ernstbrunn",
+            "latitude": 48.525741,
+            "longitude": 16.37906
+        },
+        "contact": {
+            "telephone": "43800202055",
+            "mail": "office@avanti.at",
+            "website": "http: //www.diskonttanken.at/"
+        },
+        "openingHours": [
+            {
+                "day": "MO",
+                "label": "Montag",
+                "order": 1,
+                "from": "00:00",
+                "to": "24:00"
+            },
+            {
+                "day": "DI",
+                "label": "Dienstag",
+                "order": 2,
+                "from": "00:00",
+                "to": "24:00"
+            },
+            {
+                "day": "MI",
+                "label": "Mittwoch",
+                "order": 3,
+                "from": "00:00",
+                "to": "24:00"
+            },
+            {
+                "day": "DO",
+                "label": "Donnerstag",
+                "order": 4,
+                "from": "00:00",
+                "to": "24:00"
+            },
+            {
+                "day": "FR",
+                "label": "Freitag",
+                "order": 5,
+                "from": "00:00",
+                "to": "24:00"
+            },
+            {
+                "day": "SA",
+                "label": "Samstag",
+                "order": 6,
+                "from": "00:00",
+                "to": "24:00"
+            },
+            {
+                "day": "SO",
+                "label": "Sonntag",
+                "order": 7,
+                "from": "00:00",
+                "to": "24:00"
+            },
+            {
+                "day": "FE",
+                "label": "Feiertag",
+                "order": 8,
+                "from": "00:00",
+                "to": "24:00"
+            }
+        ],
+        "offerInformation": {
+            "service": "False",
+            "selfService": "True",
+            "unattended": "True"
+        },
+        "paymentMethods": {
+            "cash": "False",
+            "debitCard": "True",
+            "creditCard": "True",
+            "others": "DKV-Card"
+        },
+        "paymentArrangements": {
+            "cooperative": "False",
+            "clubCard": "False"
+        },
+        "position": 3,
+        "open": "True",
+        "prices": [
+            {
+                "fuelType": "SUP",
+                "amount": 1.788,
+                "label": "Super 95"
+            }
+        ]
+    },
+    {
+        "id": 33570,
+        "name": "Tankstelle OBERHOFER",
+        "location": {
+            "address": "Enzersdorf im Thale",
+            "postalCode": "2032",
+            "city": "Enzersdorf im Thale",
+            "latitude": 48.585692,
+            "longitude": 16.245024
+        },
+        "contact": {
+            "telephone": "436649280233",
+            "fax": "4329538235"
+        },
+        "openingHours": [
+            {
+                "day": "MO",
+                "label": "Montag",
+                "order": 1,
+                "from": "06:00",
+                "to": "22:00"
+            },
+            {
+                "day": "DI",
+                "label": "Dienstag",
+                "order": 2,
+                "from": "06:00",
+                "to": "22:00"
+            },
+            {
+                "day": "MI",
+                "label": "Mittwoch",
+                "order": 3,
+                "from": "06:00",
+                "to": "22:00"
+            },
+            {
+                "day": "DO",
+                "label": "Donnerstag",
+                "order": 4,
+                "from": "06:00",
+                "to": "22:00"
+            },
+            {
+                "day": "FR",
+                "label": "Freitag",
+                "order": 5,
+                "from": "06:00",
+                "to": "22:00"
+            },
+            {
+                "day": "SA",
+                "label": "Samstag",
+                "order": 6,
+                "from": "06:00",
+                "to": "22:00"
+            },
+            {
+                "day": "SO",
+                "label": "Sonntag",
+                "order": 7,
+                "from": "06:00",
+                "to": "22:00"
+            },
+            {
+                "day": "FE",
+                "label": "Feiertag",
+                "order": 8,
+                "from": "06:00",
+                "to": "22:00"
+            }
+        ],
+        "offerInformation": {
+            "service": "True",
+            "selfService": "False",
+            "unattended": "False"
+        },
+        "paymentMethods": {
+            "cash": "True",
+            "debitCard": "False",
+            "creditCard": "False"
+        },
+        "paymentArrangements": {
+            "cooperative": "False",
+            "clubCard": "False"
+        },
+        "position": 4,
+        "open": "True",
+        "prices": [
+            {
+                "fuelType": "SUP",
+                "amount": 1.789,
+                "label": "Super 95"
+            }
+        ]
+    },
+    {
+        "id": 1470146,
+        "name": "Genol",
+        "location": {
+            "address": "Wienerstrasse 73",
+            "postalCode": "2000",
+            "city": "Stockerau",
+            "latitude": 48.38724846216198,
+            "longitude": 16.239068555388215
+        },
+        "contact": {},
+        "openingHours": [
+            {
+                "day": "MO",
+                "label": "Montag",
+                "order": 1,
+                "from": "00:00",
+                "to": "24:00"
+            },
+            {
+                "day": "DI",
+                "label": "Dienstag",
+                "order": 2,
+                "from": "00:00",
+                "to": "24:00"
+            },
+            {
+                "day": "MI",
+                "label": "Mittwoch",
+                "order": 3,
+                "from": "00:00",
+                "to": "24:00"
+            },
+            {
+                "day": "DO",
+                "label": "Donnerstag",
+                "order": 4,
+                "from": "00:00",
+                "to": "24:00"
+            },
+            {
+                "day": "FR",
+                "label": "Freitag",
+                "order": 5,
+                "from": "00: 00",
+                "to": "24: 00"
+            },
+            {
+                "day": "SA",
+                "label": "Samstag",
+                "order": 6,
+                "from": "00: 00",
+                "to": "24: 00"
+            },
+            {
+                "day": "SO",
+                "label": "Sonntag",
+                "order": 7,
+                "from": "00: 00",
+                "to": "24: 00"
+            },
+            {
+                "day": "FE",
+                "label": "Feiertag",
+                "order": 8,
+                "from": "00: 00",
+                "to": "24: 00"
+            }
+        ],
+        "offerInformation": {
+            "service": "False",
+            "selfService": "True",
+            "unattended": "True"
+        },
+        "paymentMethods": {
+            "cash": "True",
+            "debitCard": "True",
+            "creditCard": "True",
+            "others": "Lagerhaustankkarte"
+        },
+        "paymentArrangements": {
+            "cooperative": "False",
+            "clubCard": "False"
+        },
+        "position": 5,
+        "open": "True",
+        "prices": [
+            {
+                "fuelType": "SUP",
+                "amount": 1.789,
+                "label": "Super 95"
+            }
+        ]
+    }
+]
