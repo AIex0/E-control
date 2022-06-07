@@ -14,12 +14,22 @@ class Request:
     """Request class"""
 
     def __init__(self, url: str, request_string: str) -> None:
+        """_summary_
+
+        Args:
+            url (str): Request url
+            request_string (str): request string
+        """
         self.url = url
         self.request_string = request_string
         self.conn = client.HTTPSConnection(self.url)
 
     def get_data(self) -> str:
-        """returns the data from the request"""
+        """returns the data from the request
+
+        Returns:
+            str: json string
+        """
         self.conn.request(
             "GET",
             self.request_string,
@@ -33,11 +43,3 @@ class Request:
             str: formated json string
         """
         return json.dumps(self.get_data(), indent=4, sort_keys=True)
-
-
-Sprit = Request(
-    "api.e-control.at",
-    "/sprit/1.0/search/gas-stations/by-region?code=312&type=PB&fuelType=SUP",
-)
-
-print(Sprit.get_formated_json())
